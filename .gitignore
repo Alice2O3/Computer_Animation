@@ -398,4 +398,6 @@ FodyWeavers.xsd
 *.sln.iml
 
 # QT Library
-!QT/*
+!QT/bin/*
+!QT/include/*
+!QT/lib/*
