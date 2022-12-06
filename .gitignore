@@ -402,3 +402,5 @@ FodyWeavers.xsd
 !QT/bin/*
 !QT/include/*
 !QT/lib/*
+!.vs/
+!.vs/*
