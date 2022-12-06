@@ -402,3 +402,7 @@ FodyWeavers.xsd
 !QT/bin/*
 !QT/include/*
 !QT/lib/*
+
+# Generated Files
+Behavior/GeneratedFiles
+run/Behavior.exe
